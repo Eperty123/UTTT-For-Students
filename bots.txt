@@ -1,4 +1,5 @@
 DP Bot V2
+DP Bot V3
 Drunken Bot
 Local Prio ListBot
 Random Dude
